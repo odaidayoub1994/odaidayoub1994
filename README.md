@@ -11,7 +11,7 @@
 
 <div align="center">
     <a href="https://www.linkedin.com/in/odai-dayoub-b7906421a/" target="_blank">
-	    <img src="./odaidayoub.JPG" alt="nawar"/>
+	    <img src="./image.JPG" alt="odai"/>
     </a>
 </div>
 
