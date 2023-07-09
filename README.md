@@ -46,7 +46,7 @@ From <b>Syria 🇸🇾</b> Live in 📍 <b>Dubai 🇦🇪</b>
 
 <div>
 <ul>
-<li><a href="https://www.linkedin.com/in/odai-dayoub-b7906421a/" target="_blank">LinkedIn 🧑🏻‍💻</a></li>
+<li><a href="https://www.linkedin.com/in/odai--dayoub/" target="_blank">LinkedIn 🧑🏻‍💻</a></li>
 <li><a href="https://twitter.com/OdaiDayoob" target="_blank">Twitter 🐦</a></li>
 <li><a href="https://www.instagram.com/odaidayoob/" target="_blank">Instagram 🎆</a></li>
 </ul>
