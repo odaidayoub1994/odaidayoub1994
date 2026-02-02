@@ -1,13 +1,5 @@
 # Hi there, I'm Odai Dayoub! 🚀
 
-<div align="center">
-    <a href="https://www.linkedin.com/in/odai--dayoub/" target="_blank">
-	    <img src="./image.JPG" alt="odai"/>
-    </a>
-</div>
-
-<br />
-
 📌 **Full Stack Engineer** with 5+ years of experience building and scaling production-grade web and mobile applications across React, React Native, Node.js, and AWS. Strong focus on backend systems, blockchain integrations, and cross-platform delivery from concept to production.
 
 ## 🗺️ Location
