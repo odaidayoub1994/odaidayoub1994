@@ -1,48 +1,61 @@
-# Welcome to my Github profile! 🚀
-
-📌 Hi there! I'm a <b>Full stack developer 💻</b> with a passion for building innovative and user-friendly web applications. I have experience in ReactJS, NodeJS, Express, MongoDB, SQL, TypeScript, and smart contract integration.
-<br /><br />
-📌 I've had the opportunity to work with some amazing companies such as Polytrade 💼, Start Tech 🎨, where I've honed my skills and gained valuable experience.
-<br /><br />
-📌 I specialize in JavaScript, and I'm a fan of using TypeScript to build robust and maintainable code. I also enjoy experimenting with new technologies 🚀 and finding creative solutions to complex problems.
-<br /><br />
-📌 I'm always ready for new challenges and to learn new technologies, let's work together and build something amazing! ⚡️
-<br /><br />
+# Hi there, I'm Odai Dayoub! 🚀
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/odai-dayoub-b7906421a/" target="_blank">
+    <a href="https://www.linkedin.com/in/odai--dayoub/" target="_blank">
 	    <img src="./image.JPG" alt="odai"/>
     </a>
 </div>
 
+<br />
+
+📌 **Full Stack Engineer** with 5+ years of experience building and scaling production-grade web and mobile applications across React, React Native, Node.js, and AWS. Strong focus on backend systems, blockchain integrations, and cross-platform delivery from concept to production.
+
 ## 🗺️ Location
 
-From <b>Syria 🇸🇾</b> Live in 📍 <b>Dubai 🇦🇪</b>
+From <b>Syria 🇸🇾</b> | Based in 📍 <b>Dubai, UAE 🇦🇪</b>
 
-## ⛷️ Skills and technologies
+## 🛠️ Skills & Technologies
 
-<div>
-<ul>
-<li>ReactJS / NextJs 🦾</li>
-<li>NodeJS / Express / NestJs 🎬</li>
-<li>MongoDB / Oracle / MySQL / PL.SQL 📦</li>
-<li>TypeScript / JavaScript 💻</li>
-<li>Smart Contract Integration 💰</li>
-<li>PHP / Laravel</li>
-<li>Angular</li>
-</ul>
-</div>
+**Frontend:** React, Next.js, React Native (Expo), Redux Toolkit, TanStack Query, i18n, Bootstrap, Chakra UI, Unistyles
 
-## 🔥 Career
+**Backend:** Node.js, Express.js, NestJS, RESTful APIs, TypeORM
 
-<div>
-<ul>
-<li><a href="https://polytrade.finance/" target="_blank">Polytrade 💻</a></li>
-<li><a href="https://start-tech.ae/" target="_blank">Start Tech 🎨</a></li>
-</ul>
-</div>
+**Databases:** AWS DynamoDB, PostgreSQL, MySQL, MongoDB
 
-## 🤝 Let's connect
+**Cloud & DevOps:** AWS (KMS, SQS), Docker, Git, CI/CD pipelines, EAS (Expo Application Services), Xcode & Android Studio
+
+**Blockchain:** Smart Contract Integration, Ethers.js, Solidity
+
+**Languages:** JavaScript, TypeScript
+
+**Monitoring:** Datadog, Mixpanel
+
+## 🔥 Professional Experience
+
+- **<a href="https://www.vechain.org/" target="_blank">VeChain</a>** — Full Stack Engineer *(Sep 2024 – Jan 2026)*
+  - Delivered 10+ critical mobile features for Evearn, improving onboarding, login stability, and EV connection reliability
+  - Integrated secure blockchain signing via AWS KMS, eliminating private-key exposure across 100% of VeChain transactions
+  - Achieved 95% feature parity between mobile and web by developing the Evearn web application
+  - Contributed cross-functionally to mobile, backend, blockchain, and DevOps across 3+ product releases
+
+- **<a href="https://polytrade.finance/" target="_blank">Polytrade</a>** — Full Stack Engineer *(Nov 2022 – Aug 2024)*
+  - Developed the Web2 side of an RWA (Real World Asset) marketplace
+  - Integrated Web3 via Ethers.js with Multicall, Metamask, and Venly wallet support
+  - Shipped a full-stack lender pool application from backend APIs to frontend integration
+
+- **<a href="https://start-tech.ae/" target="_blank">Start Tech</a>** — Full Stack Developer *(Feb 2021 – Jun 2022)*
+  - Built and launched 2+ web applications using Node.js, Express.js, React.js, and Redux Toolkit
+  - Implemented security and data protection for 10,000+ users
+
+- **Digital Edge M.N.C.** — Web Developer *(Mar 2019 – Jan 2021)*
+  - Engineered responsive front-end architecture and optimized back-end applications
+  - Partnered with UX to design user-friendly interfaces, reducing bounce rate by 20%
+
+## 🎓 Education
+
+**Tishreen University**, Latakia, Syria — B.Sc. Information Technology *(June 2021)*
+
+## 🤝 Let's Connect
 
 <div>
 <ul>
@@ -52,10 +65,10 @@ From <b>Syria 🇸🇾</b> Live in 📍 <b>Dubai 🇦🇪</b>
 </ul>
 </div>
 
-## Contact 📞
+## 📞 Contact
 
-If you have any questions or would like to collaborate on a project, feel free to <a href="mailto:odaidayoob88@gmail.com">email me</a>.
+If you have any questions or would like to collaborate on a project, feel free to <a href="mailto:odaidayoob88@gmail.com">email me</a> or call me at **+971 55 545 2921**.
 
-## 🙌 You are welcome
+## 🙌 Thanks for visiting!
 
-Thanks for visiting my profile! Let's brainstorm and build something great together.
+Let's brainstorm and build something great together.
