@@ -49,7 +49,7 @@ From <b>Syria</b> | Based in 📍 <b>Dubai, UAE</b>
 
 ## 🔗 Find Me on LinkedIn
 
-<a href="https://www.linkedin.com/in/odai--dayoub/" target="_blank">linkedin.com/in/odai--dayoub</a>
+<a href="https://www.linkedin.com/in/odaidayoub" target="_blank">linkedin.com/in/odaidayoub</a>
 
 ## 📬 Contact
 
