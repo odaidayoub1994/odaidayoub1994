@@ -47,15 +47,9 @@ From <b>Syria</b> | Based in 📍 <b>Dubai, UAE</b>
 
 **Tishreen University**, Latakia, Syria — B.Sc. Information Technology *(June 2021)*
 
-## 🤝 Let's Connect
+## 🔗 Find Me on LinkedIn
 
-<div>
-<ul>
-<li><a href="https://www.linkedin.com/in/odai--dayoub/" target="_blank">LinkedIn</a></li>
-<li><a href="https://twitter.com/OdaiDayoob" target="_blank">Twitter</a></li>
-<li><a href="https://www.instagram.com/odaidayoob/" target="_blank">Instagram</a></li>
-</ul>
-</div>
+<a href="https://www.linkedin.com/in/odai--dayoub/" target="_blank">linkedin.com/in/odai--dayoub</a>
 
 ## 📬 Contact
 
