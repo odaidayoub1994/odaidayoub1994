@@ -1,8 +1,8 @@
-# Hi there, I'm Odai Dayoub! 🚀
+# Hi there, I'm Odai Dayoub! 👋
 
-📌 **Full Stack Engineer** with 5+ years of experience building and scaling production-grade web and mobile applications across React, React Native, Node.js, and AWS. Strong focus on backend systems, blockchain integrations, and cross-platform delivery from concept to production.
+**Full Stack Engineer** with 5+ years of experience building and scaling production-grade web and mobile applications across React, React Native, Node.js, and AWS. Strong focus on backend systems, blockchain integrations, and cross-platform delivery from concept to production.
 
-## 🗺️ Location
+## 🌍 Location
 
 From <b>Syria 🇸🇾</b> | Based in 📍 <b>Dubai, UAE 🇦🇪</b>
 
@@ -22,7 +22,7 @@ From <b>Syria 🇸🇾</b> | Based in 📍 <b>Dubai, UAE 🇦🇪</b>
 
 **Monitoring:** Datadog, Mixpanel
 
-## 🔥 Professional Experience
+## 💼 Professional Experience
 
 - **<a href="https://www.vechain.org/" target="_blank">VeChain</a>** — Full Stack Engineer *(Sep 2024 – Jan 2026)*
   - Delivered 10+ critical mobile features for Evearn, improving onboarding, login stability, and EV connection reliability
@@ -51,13 +51,13 @@ From <b>Syria 🇸🇾</b> | Based in 📍 <b>Dubai, UAE 🇦🇪</b>
 
 <div>
 <ul>
-<li><a href="https://www.linkedin.com/in/odai--dayoub/" target="_blank">LinkedIn 🧑🏻‍💻</a></li>
-<li><a href="https://twitter.com/OdaiDayoob" target="_blank">Twitter 🐦</a></li>
-<li><a href="https://www.instagram.com/odaidayoob/" target="_blank">Instagram 🎆</a></li>
+<li><a href="https://www.linkedin.com/in/odai--dayoub/" target="_blank">LinkedIn</a></li>
+<li><a href="https://twitter.com/OdaiDayoob" target="_blank">Twitter</a></li>
+<li><a href="https://www.instagram.com/odaidayoob/" target="_blank">Instagram</a></li>
 </ul>
 </div>
 
-## 📞 Contact
+## 📬 Contact
 
 If you have any questions or would like to collaborate on a project, feel free to <a href="mailto:odaidayoob88@gmail.com">email me</a> or call me at **+971 55 545 2921**.
 
