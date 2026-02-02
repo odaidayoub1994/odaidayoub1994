@@ -4,7 +4,7 @@
 
 ## 🌍 Location
 
-From <b>Syria 🇸🇾</b> | Based in 📍 <b>Dubai, UAE 🇦🇪</b>
+From <b>Syria</b> | Based in 📍 <b>Dubai, UAE</b>
 
 ## 🛠️ Skills & Technologies
 
